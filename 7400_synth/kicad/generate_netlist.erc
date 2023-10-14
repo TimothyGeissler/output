@@ -1,0 +1,5 @@
+ERC WARNING: Only one pin (OUTPUT pin 6/2Y of 74LS86/U3) attached to net S.
+ERC WARNING: Only one pin (OUTPUT pin 8/3Y of 74LS00/U2) attached to net Cout.
+ERC INFO: 2 warnings found while running ERC.
+ERC INFO: 0 errors found while running ERC.
+

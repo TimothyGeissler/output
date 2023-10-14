@@ -1,0 +1,6 @@
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/home/timdg/Documents/RTL/output/7400_synth/kicad/<frozen importlib._bootstrap_external>:883=>/home/timdg/Documents/RTL/output/7400_synth/kicad/<frozen importlib._bootstrap>:241]
+ERROR: No pins found using U1[('5A',)] @ [/home/timdg/Documents/RTL/output/7400_synth/kicad/generate_netlist.py:152=>/home/timdg/Documents/RTL/output/7400_synth/kicad/generate_netlist.py:63]
+ERROR: No pins found using U2[('5A',)] @ [/home/timdg/Documents/RTL/output/7400_synth/kicad/generate_netlist.py:158=>/home/timdg/Documents/RTL/output/7400_synth/kicad/generate_netlist.py:63]
+ERROR: No pins found using U3[('5A',)] @ [/home/timdg/Documents/RTL/output/7400_synth/kicad/generate_netlist.py:134=>/home/timdg/Documents/RTL/output/7400_synth/kicad/generate_netlist.py:63]
+INFO: No errors or warnings found while generating netlist.
+

@@ -1,0 +1,17 @@
+
+26. Printing statistics.
+
+=== full_adder ===
+
+   Number of wires:                  9
+   Number of wire bits:              9
+   Number of public wires:           5
+   Number of public wire bits:       5
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:                  6
+     \74AC00_4x1NAND2                3
+     \74AC32_4x1OR2                  1
+     \74AC86_4x1XOR2                 2
+
